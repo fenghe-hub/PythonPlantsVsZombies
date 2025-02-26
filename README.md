@@ -13,6 +13,7 @@
 * Python-Pygame 1.9
 
 # How To Start Game
+* Go to folder of main.py, then run it. Or might encoutner error when run main.py if you under other folders.
 $ python main.py
 
 # How to Play
